@@ -15,7 +15,7 @@ Hi there! 👋 I'm Alif<br><br>💻  Competitive Programmer | Golang Developer<b
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alif10151&layout=compact&theme=gruvbox)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Alif10151&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Alif10151&theme=gruvbox&no-frame=true&no-bg=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
